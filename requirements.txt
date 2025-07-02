@@ -1,4 +1,5 @@
 streamlit
-coolprop
+CoolProp
+pandas
+xlsxwriter
 matplotlib
-numpy
